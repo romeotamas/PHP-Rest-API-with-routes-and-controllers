@@ -5,7 +5,7 @@
 
     global $db, $api, $route;
 
-	require_once('./globals.php');
+    require_once('./globals.php');
     require_once('./autoload.php');
     require_once('./includes/routes/Routes.php');
 
